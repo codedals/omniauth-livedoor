@@ -43,7 +43,7 @@ end
 ## Reference
 [http://auth.livedoor.com/](http://auth.livedoor.com/)
 
-##License
+##  License
 
 Copyright (c) 2012 Mitchell A. Carroll
 
